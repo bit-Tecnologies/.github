@@ -1,4 +1,4 @@
-# bit Technologies
+# bit Tecnologies
 
 
 <!--
